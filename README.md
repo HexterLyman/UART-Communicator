@@ -49,4 +49,14 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 
 ### 4. Flash the Firmware
 
-##
+Note: It is recommended to use 2 different devices with one acting as the transmitter / encoder, and the other acting as the receiver / decoder.
+
+## Acknowledgements
+Here are the people who helped contribute to this project (in no particular order):
+- Ali Alsaad
+- Merve Aygün
+- Zehranur Patan
+- Royatul Rauf
+- Lesina Saidaeva
+
+ 
